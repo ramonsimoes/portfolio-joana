@@ -1,2 +1,2 @@
-# HTML-CSS-e-Responsividade:-projeto-portfólio-Joana
-Projeto para praticar HTML, CSS e Responsividade.
+# HTML CSS e Responsividade: Portfólio Joana
+Este projeto tem como inspiração um trilha de cursos oferecidos pela Alura para estudar e praticar HTML, CSS e Responsividade.
